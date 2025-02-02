@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Sou uma desenvolvedora em início de carreira, apaixonada por tecnologia e pela oportunidade de criar soluções que fazem a diferença. Estou começando minha faculdade na área, mas a busca por conhecimento não para! Estou continuamente estudando, experimentando e me aperfeiçoando para crescer como profissional e enfrentar desafios no mundo da programação.<br><br>💻 Atualmente, estou explorando tecnologias como [React, Java, MySQL, etc.], com foco em desenvolvimento web e criação de aplicações robustas e intuitivas.<br>🚀 Estou animada para aprender, colaborar e transformar ideias em realidade através da tecnologia.</p>
+<p align="left">Sou uma desenvolvedora em início de carreira, apaixonada por tecnologia e pela oportunidade de criar soluções que fazem a diferença. Estou começando minha faculdade na área, mas a busca por conhecimento não para! Estou continuamente estudando, experimentando e me aperfeiçoando para crescer como profissional e enfrentar desafios no mundo da programação.<br><br>💻 Atualmente, estou explorando tecnologias como Javascript, Html, CSS, React, Java, com foco em desenvolvimento web e criação de aplicações robustas e intuitivas.<br>🚀 Estou animada para aprender, colaborar e transformar ideias em realidade através da tecnologia.</p>
 
 ###
 
